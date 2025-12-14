@@ -1,18 +1,3 @@
-# Documentation files (exclude all except README.md)
-DEMO_SCRIPT.md
-DEMO_CHECKLIST.md
-CODE_WALKTHROUGH.md
-QUICK_REFERENCE.md
-STEP_BY_STEP_TUTORIAL.md
-USER_GUIDE.md
-VISUAL_GUIDE.md
-VISUAL_DIAGRAM.md
-VISUAL_SUMMARY.txt
-START_HERE.md
-SETUP_GUIDE.md
-TEST_SETUP.md
-QUICK_START.sh
-
 # Python
 __pycache__/
 *.py[cod]
@@ -65,4 +50,3 @@ Thumbs.db
 
 # Logs
 *.log
-
